@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1585678746 source:c:\users\silviu\desktop\paranteze\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stack>
+	<fstream>
+

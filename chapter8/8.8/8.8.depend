@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585840831 source:d:\proiecte\algoritmica\crackthecode\chapter8\8.8\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

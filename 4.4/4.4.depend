@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582319648 source:d:\proiecte\algoritmica\crackthecode\chapter4\4.4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+
